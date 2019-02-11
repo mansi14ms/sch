@@ -1,0 +1,59 @@
+.ed_header_top {
+    background-color: rebeccapurple;
+    padding: 15px 0;
+	height: 80px;
+}
+.ed_social_icons ul 
+{
+    float: right;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.ed_contact_details ul 
+{
+    float: left;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    margin-left: 150px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.pro_logo {
+    padding: 0px;
+    margin-top: -100px;
+}
+.ed_header_bottom {
+    background-color: dimgray;
+}
+.ed_menu {
+    top: 15px;
+	color: black;
+}
+.fw-container {
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    max-width: 100%;
+    background-color: gainsboro;
+}
+.ed_bottompadder80 {
+    padding-bottom: 40px;
+ 
+    background-image: url(http://wallpapercave.com/wp/nmc01jM.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ed_bottompadder100 {
+    padding-bottom: 100px;
+    background-color: gainsboro;
+}
+.ed_footer_top {
+    padding: 70px 0 30px;
+    background:slategray;
+}
